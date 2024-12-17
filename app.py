@@ -11,9 +11,17 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
+    return render_template('index.html')
+
+@app.route("/home.html")
+def shortestPath():
     return render_template('home.html')
 
-@app.route("/",methods = ["POST"])
+@app.route("/chatbot.html")
+def chatbot():
+    return render_template('chatbot.html')
+
+@app.route("/home.html",methods = ["POST"])
 def getValue():
 	graph,points = getGraphPoints()
 	source = request.form['source']

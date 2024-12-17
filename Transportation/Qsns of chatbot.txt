@@ -1,0 +1,43 @@
+Handling Different Types of Queries:
+General Traffic Questions:
+
+"What's the traffic like in the city today?"
+"Tell me about the current traffic conditions."
+"Is there any congestion in the downtown area?"
+"What is the average traffic speed right now?"
+
+
+Traffic Predictions:
+
+"Predict the traffic for tomorrow morning."
+"How long will it take to travel from downtown to the airport during rush hour?"
+"What is the traffic prediction for the weekend?"
+"Can you estimate the traffic in the central business district this evening?"
+
+
+Route Suggestions:
+
+"Suggest the fastest route to the airport."
+"Which route should I take to avoid heavy traffic?"
+"Is there a quicker way to get to the station from here?"
+
+
+Traffic-related Issues:
+
+"Are there any accidents reported on main roads?"
+"Is the highway to the north closed?"
+"Are there any roadworks affecting traffic in the city?"
+
+
+Traffic Control & Management:
+
+"What measures are being taken to manage traffic congestion?"
+"Are there any traffic diversions in place?"
+"What time does the traffic light cycle change at the intersection?"
+
+
+Historical Data and Trends:
+
+"How does today's traffic compare to last week?"
+"What is the average traffic speed during peak hours?"
+"What are the typical traffic patterns for this route?"
