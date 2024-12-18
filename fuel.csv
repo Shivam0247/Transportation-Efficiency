@@ -1,0 +1,358 @@
+Source,Destination,Distance (km)
+Andhra Pradesh,Arunachal Pradesh,2320
+Andhra Pradesh,Assam,2100
+Andhra Pradesh,Bihar,1600
+Andhra Pradesh,Chhattisgarh,800
+Andhra Pradesh,Goa,950
+Andhra Pradesh,Gujarat,1600
+Andhra Pradesh,Haryana,1850
+Andhra Pradesh,Himachal Pradesh,2000
+Andhra Pradesh,Jharkhand,1350
+Andhra Pradesh,Karnataka,450
+Andhra Pradesh,Kerala,1100
+Andhra Pradesh,Madhya Pradesh,1250
+Andhra Pradesh,Maharashtra,700
+Andhra Pradesh,Manipur,2200
+Andhra Pradesh,Meghalaya,2100
+Andhra Pradesh,Mizoram,2300
+Andhra Pradesh,Nagaland,2200
+Andhra Pradesh,Odisha,870
+Andhra Pradesh,Punjab,1850
+Andhra Pradesh,Rajasthan,1700
+Andhra Pradesh,Sikkim,2000
+Andhra Pradesh,Tamil Nadu,700
+Andhra Pradesh,Telangana,320
+Andhra Pradesh,Tripura,2300
+Andhra Pradesh,Uttar Pradesh,1400
+Andhra Pradesh,Uttarakhand,1800
+Arunachal Pradesh,Assam,700
+Arunachal Pradesh,Bihar,1200
+Arunachal Pradesh,Chhattisgarh,1400
+Arunachal Pradesh,Goa,3200
+Arunachal Pradesh,Gujarat,3000
+Arunachal Pradesh,Haryana,2100
+Arunachal Pradesh,Himachal Pradesh,2300
+Arunachal Pradesh,Jharkhand,1350
+Arunachal Pradesh,Karnataka,2900
+Arunachal Pradesh,Kerala,3200
+Arunachal Pradesh,Madhya Pradesh,2000
+Arunachal Pradesh,Maharashtra,2600
+Arunachal Pradesh,Manipur,500
+Arunachal Pradesh,Meghalaya,700
+Arunachal Pradesh,Mizoram,450
+Arunachal Pradesh,Nagaland,350
+Arunachal Pradesh,Odisha,1800
+Arunachal Pradesh,Punjab,2300
+Arunachal Pradesh,Rajasthan,2500
+Arunachal Pradesh,Sikkim,850
+Arunachal Pradesh,Tamil Nadu,3200
+Arunachal Pradesh,Telangana,2500
+Arunachal Pradesh,Tripura,450
+Arunachal Pradesh,Uttar Pradesh,1800
+Arunachal Pradesh,Uttarakhand,2100
+Assam,Bihar,1100
+Assam,Chhattisgarh,1000
+Assam,Goa,3000
+Assam,Gujarat,2500
+Assam,Haryana,1900
+Assam,Himachal Pradesh,2100
+Assam,Jharkhand,1250
+Assam,Karnataka,2700
+Assam,Kerala,3100
+Assam,Madhya Pradesh,1600
+Assam,Maharashtra,2300
+Assam,Manipur,520
+Assam,Meghalaya,100
+Assam,Mizoram,700
+Assam,Nagaland,320
+Assam,Odisha,1300
+Assam,Punjab,2100
+Assam,Rajasthan,2200
+Assam,Sikkim,550
+Assam,Tamil Nadu,2700
+Assam,Telangana,2400
+Assam,Tripura,550
+Assam,Uttar Pradesh,1500
+Assam,Uttarakhand,1800
+Bihar,Chhattisgarh,600
+Bihar,Goa,2000
+Bihar,Gujarat,1700
+Bihar,Haryana,1200
+Bihar,Himachal Pradesh,1300
+Bihar,Jharkhand,345
+Bihar,Karnataka,1900
+Bihar,Kerala,2400
+Bihar,Madhya Pradesh,1000
+Bihar,Maharashtra,1600
+Bihar,Manipur,1700
+Bihar,Meghalaya,1100
+Bihar,Mizoram,1900
+Bihar,Nagaland,1600
+Bihar,Odisha,600
+Bihar,Punjab,1300
+Bihar,Rajasthan,1400
+Bihar,Sikkim,400
+Bihar,Tamil Nadu,2000
+Bihar,Telangana,1500
+Bihar,Tripura,1600
+Bihar,Uttar Pradesh,340
+Bihar,Uttarakhand,800
+Chhattisgarh,Goa,1300
+Chhattisgarh,Gujarat,1400
+Chhattisgarh,Haryana,1400
+Chhattisgarh,Himachal Pradesh,1600
+Chhattisgarh,Jharkhand,480
+Chhattisgarh,Karnataka,1400
+Chhattisgarh,Kerala,1900
+Chhattisgarh,Madhya Pradesh,640
+Chhattisgarh,Maharashtra,900
+Chhattisgarh,Manipur,1900
+Chhattisgarh,Meghalaya,1200
+Chhattisgarh,Mizoram,2100
+Chhattisgarh,Nagaland,1900
+Chhattisgarh,Odisha,560
+Chhattisgarh,Punjab,1600
+Chhattisgarh,Rajasthan,1300
+Chhattisgarh,Sikkim,1800
+Chhattisgarh,Tamil Nadu,1800
+Chhattisgarh,Telangana,700
+Chhattisgarh,Tripura,2100
+Chhattisgarh,Uttar Pradesh,900
+Chhattisgarh,Uttarakhand,1300
+Gujarat,Haryana,1200
+Gujarat,Himachal Pradesh,1300
+Gujarat,Jharkhand,1800
+Gujarat,Karnataka,1600
+Gujarat,Kerala,1800
+Gujarat,Madhya Pradesh,550
+Gujarat,Maharashtra,700
+Gujarat,Manipur,2500
+Gujarat,Meghalaya,2500
+Gujarat,Mizoram,2700
+Gujarat,Nagaland,2500
+Gujarat,Odisha,1700
+Gujarat,Punjab,1300
+Gujarat,Rajasthan,650
+Gujarat,Sikkim,2100
+Gujarat,Tamil Nadu,1700
+Gujarat,Telangana,1600
+Gujarat,Tripura,2700
+Gujarat,Uttar Pradesh,1200
+Gujarat,Uttarakhand,1400
+Gujarat,West Bengal,2000
+Gujarat,Andhra Pradesh,1600
+Gujarat,Arunachal Pradesh,3000
+Gujarat,Assam,2500
+Gujarat,Bihar,1700
+Gujarat,Chhattisgarh,1400
+Gujarat,Goa,3200
+Gujarat,Haryana,1200
+Gujarat,Himachal Pradesh,1300
+Gujarat,Jharkhand,1800
+Gujarat,Karnataka,1600
+Gujarat,Kerala,1800
+Gujarat,Madhya Pradesh,550
+Gujarat,Maharashtra,700
+Gujarat,Manipur,2500
+Gujarat,Meghalaya,2500
+Gujarat,Mizoram,2700
+Gujarat,Nagaland,2500
+Gujarat,Odisha,1700
+Gujarat,Punjab,1300
+Gujarat,Rajasthan,650
+Gujarat,Sikkim,2100
+Gujarat,Tamil Nadu,1700
+Gujarat,Telangana,1600
+Gujarat,Tripura,2700
+Gujarat,Uttar Pradesh,1200
+Gujarat,Uttarakhand,1400
+Haryana,Himachal Pradesh,200
+Haryana,Jharkhand,1300
+Haryana,Karnataka,1800
+Haryana,Kerala,2200
+Haryana,Madhya Pradesh,700
+Haryana,Maharashtra,1300
+Haryana,Manipur,2100
+Haryana,Meghalaya,1700
+Haryana,Mizoram,2200
+Haryana,Nagaland,2000
+Haryana,Odisha,1300
+Haryana,Punjab,150
+Haryana,Rajasthan,600
+Haryana,Sikkim,1900
+Haryana,Tamil Nadu,2000
+Haryana,Telangana,1700
+Haryana,Tripura,2200
+Haryana,Uttar Pradesh,250
+Haryana,Uttarakhand,500
+Himachal Pradesh,Jharkhand,1400
+Himachal Pradesh,Karnataka,2100
+Himachal Pradesh,Kerala,2400
+Himachal Pradesh,Madhya Pradesh,950
+Himachal Pradesh,Maharashtra,1400
+Himachal Pradesh,Manipur,2200
+Himachal Pradesh,Meghalaya,2000
+Himachal Pradesh,Mizoram,2300
+Himachal Pradesh,Nagaland,2100
+Himachal Pradesh,Odisha,1400
+Himachal Pradesh,Punjab,250
+Himachal Pradesh,Rajasthan,500
+Himachal Pradesh,Sikkim,1600
+Himachal Pradesh,Tamil Nadu,2300
+Himachal Pradesh,Telangana,2000
+Himachal Pradesh,Tripura,2300
+Himachal Pradesh,Uttar Pradesh,1000
+Himachal Pradesh,Uttarakhand,300
+Jharkhand,Karnataka,1600
+Jharkhand,Kerala,1800
+Jharkhand,Madhya Pradesh,500
+Jharkhand,Maharashtra,1000
+Jharkhand,Manipur,1500
+Jharkhand,Meghalaya,400
+Jharkhand,Mizoram,1600
+Jharkhand,Nagaland,1200
+Jharkhand,Odisha,350
+Jharkhand,Punjab,1400
+Jharkhand,Rajasthan,1100
+Jharkhand,Sikkim,1700
+Jharkhand,Tamil Nadu,1500
+Jharkhand,Telangana,1200
+Jharkhand,Tripura,1600
+Jharkhand,Uttar Pradesh,700
+Jharkhand,Uttarakhand,1000
+Karnataka,Kerala,200
+Karnataka,Madhya Pradesh,1200
+Karnataka,Maharashtra,450
+Karnataka,Manipur,1600
+Karnataka,Meghalaya,1800
+Karnataka,Mizoram,2100
+Karnataka,Nagaland,1900
+Karnataka,Odisha,1300
+Karnataka,Punjab,1700
+Karnataka,Rajasthan,1500
+Karnataka,Sikkim,1900
+Karnataka,Tamil Nadu,350
+Karnataka,Telangana,450
+Karnataka,Tripura,2100
+Karnataka,Uttar Pradesh,1400
+Karnataka,Uttarakhand,1700
+Kerala,Madhya Pradesh,1500
+Kerala,Maharashtra,800
+Kerala,Manipur,1900
+Kerala,Meghalaya,1600
+Kerala,Mizoram,2100
+Kerala,Nagaland,1900
+Kerala,Odisha,1600
+Kerala,Punjab,1900
+Kerala,Rajasthan,1800
+Kerala,Sikkim,1600
+Kerala,Tamil Nadu,250
+Kerala,Telangana,1500
+Kerala,Tripura,2100
+Kerala,Uttar Pradesh,1500
+Kerala,Uttarakhand,1800
+Madhya Pradesh,Maharashtra,750
+Madhya Pradesh,Manipur,1600
+Madhya Pradesh,Meghalaya,1200
+Madhya Pradesh,Mizoram,1900
+Madhya Pradesh,Nagaland,1600
+Madhya Pradesh,Odisha,600
+Madhya Pradesh,Punjab,800
+Madhya Pradesh,Rajasthan,500
+Madhya Pradesh,Sikkim,1200
+Madhya Pradesh,Tamil Nadu,1400
+Madhya Pradesh,Telangana,1100
+Madhya Pradesh,Tripura,1900
+Madhya Pradesh,Uttar Pradesh,600
+Madhya Pradesh,Uttarakhand,700
+Maharashtra,Manipur,1900
+Maharashtra,Meghalaya,1700
+Maharashtra,Mizoram,2200
+Maharashtra,Nagaland,2000
+Maharashtra,Odisha,700
+Maharashtra,Punjab,1600
+Maharashtra,Rajasthan,1000
+Maharashtra,Sikkim,1500
+Maharashtra,Tamil Nadu,1200
+Maharashtra,Telangana,1000
+Maharashtra,Tripura,2200
+Maharashtra,Uttar Pradesh,1300
+Maharashtra,Uttarakhand,1400
+Manipur,Meghalaya,200
+Manipur,Mizoram,300
+Manipur,Nagaland,250
+Manipur,Odisha,1400
+Manipur,Punjab,2000
+Manipur,Rajasthan,2100
+Manipur,Sikkim,2300
+Manipur,Tamil Nadu,2200
+Manipur,Telangana,2000
+Manipur,Tripura,300
+Manipur,Uttar Pradesh,1800
+Manipur,Uttarakhand,2100
+Meghalaya,Mizoram,500
+Meghalaya,Nagaland,300
+Meghalaya,Odisha,1300
+Meghalaya,Punjab,1700
+Meghalaya,Rajasthan,1800
+Meghalaya,Sikkim,900
+Meghalaya,Tamil Nadu,2200
+Meghalaya,Telangana,1500
+Meghalaya,Tripura,500
+Meghalaya,Uttar Pradesh,1400
+Meghalaya,Uttarakhand,1600
+Mizoram,Nagaland,250
+Mizoram,Odisha,1400
+Mizoram,Punjab,1900
+Mizoram,Rajasthan,2000
+Mizoram,Sikkim,1700
+Mizoram,Tamil Nadu,2100
+Mizoram,Telangana,1700
+Mizoram,Tripura,500
+Mizoram,Uttar Pradesh,1900
+Mizoram,Uttarakhand,2100
+Nagaland,Odisha,1200
+Nagaland,Punjab,1700
+Nagaland,Rajasthan,1800
+Nagaland,Sikkim,1900
+Nagaland,Tamil Nadu,2000
+Nagaland,Telangana,1800
+Nagaland,Tripura,250
+Nagaland,Uttar Pradesh,1700
+Nagaland,Uttarakhand,1900
+Odisha,Punjab,1200
+Odisha,Rajasthan,1000
+Odisha,Sikkim,1000
+Odisha,Tamil Nadu,1500
+Odisha,Telangana,700
+Odisha,Tripura,1400
+Odisha,Uttar Pradesh,600
+Odisha,Uttarakhand,800
+Punjab,Rajasthan,650
+Punjab,Sikkim,1200
+Punjab,Tamil Nadu,1800
+Punjab,Telangana,1500
+Punjab,Tripura,1700
+Punjab,Uttar Pradesh,250
+Punjab,Uttarakhand,500
+Rajasthan,Sikkim,1200
+Rajasthan,Tamil Nadu,1400
+Rajasthan,Telangana,1000
+Rajasthan,Tripura,1800
+Rajasthan,Uttar Pradesh,500
+Rajasthan,Uttarakhand,600
+Sikkim,Tamil Nadu,1400
+Sikkim,Telangana,1100
+Sikkim,Tripura,1300
+Sikkim,Uttar Pradesh,1500
+Sikkim,Uttarakhand,1200
+Tamil Nadu,Telangana,450
+Tamil Nadu,Tripura,2000
+Tamil Nadu,Uttar Pradesh,1700
+Tamil Nadu,Uttarakhand,1800
+Telangana,Tripura,1900
+Telangana,Uttar Pradesh,1100
+Telangana,Uttarakhand,1200
+Tripura,Uttar Pradesh,1800
+Tripura,Uttarakhand,2000
+Uttar Pradesh,Uttarakhand,300

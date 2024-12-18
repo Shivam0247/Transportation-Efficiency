@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuel Consumption Result</title>
+</head>
+
+<body>
+    {% if error %}
+    <h1>Error</h1>
+    <p>{{ error }}</p>
+    {% else %}
+    <h1>Fuel Consumption Details</h1>
+    <p><strong>Source:</strong> {{ source }}</p>
+    <p><strong>Destination:</strong> {{ destination }}</p>
+    <p><strong>Distance:</strong> {{ distance }} km</p>
+    <p><strong>Fuel Efficiency:</strong> {{ fuel_efficiency }} km/l</p>
+    <p><strong>Fuel Consumed:</strong> {{ fuel_consumed }} liters</p>
+    {% endif %}
+</body>
+
+</html>
