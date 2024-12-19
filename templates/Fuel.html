@@ -5,21 +5,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fuel Consumption Calculator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+
 </head>
 
 <body>
-    <h1>Fuel Consumption Calculator</h1>
-    <form action="/Fuel.html" method="POST">
-        <label for="source">Source:</label>
-        <input type="text" id="source" name="source" required><br><br>
 
-        <label for="destination">Destination:</label>
-        <input type="text" id="destination" name="destination" required><br><br>
 
-        <label for="fuel_efficiency">Fuel Efficiency (km/l):</label>
-        <input type="number" id="fuel_efficiency" name="fuel_efficiency" required><br><br>
+    <form action="/Fuel.html" method="POST" style="width: 50%; padding: 10px;">
+        <div id="sourceInp" style=" padding-top: 3%; background: linear-gradient(135deg, #00b4c0, #1b519d);
+                        text-align: center; color: white; text-decoration: none; border-radius: 20px; width: 100%;">
+            <h1>Fuel Consumption Calculator</h1>
 
-        <button type="submit">Calculate</button>
+            <label for="source">Source:</label>
+            <input type="text" id="user-input" name="source" required><br><br>
+
+            <label for="destination">Destination:</label>
+            <input type="text" id="user-input" name="destination" required><br><br>
+
+            <label for="fuel_efficiency">Fuel Efficiency (km/l):</label>
+            <input type="number" id="user-input" name="fuel_efficiency" required><br><br>
+
+            <button type="submit" id="send-btn" style="margin: 20px;">Calculate</button>
+        </div>
+
     </form>
 </body>
 
